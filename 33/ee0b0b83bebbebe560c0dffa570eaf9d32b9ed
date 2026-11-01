@@ -1,0 +1,175 @@
+.claude/skills/speckit-analyze/SKILL.md
+  s_dc170cbb8930c6::t_fe44aaad46c069 1-262
+.claude/skills/speckit-checklist/SKILL.md
+  s_dc170cbb8930c6::t_abfbc9fde67b53 1-376
+.claude/skills/speckit-clarify/SKILL.md
+  s_dc170cbb8930c6::t_abd878f633cdc4 1-294
+.claude/skills/speckit-constitution/SKILL.md
+  s_dc170cbb8930c6::t_9e385a8e6ac64c 1-171
+.claude/skills/speckit-converge/SKILL.md
+  s_dc170cbb8930c6::t_8ea7b2e3cad1d3 1-279
+.claude/skills/speckit-implement/SKILL.md
+  s_dc170cbb8930c6::t_cdf890538d6ca1 1-226
+.claude/skills/speckit-plan/SKILL.md
+  s_dc170cbb8930c6::t_3177c29d8c19aa 1-169
+.claude/skills/speckit-specify/SKILL.md
+  s_dc170cbb8930c6::t_3193037c7051b5 1-348
+.claude/skills/speckit-tasks/SKILL.md
+  s_dc170cbb8930c6::t_0f2b2572e11fb4 1-217
+.claude/skills/speckit-taskstoissues/SKILL.md
+  s_dc170cbb8930c6::t_db051e9e9bcda5 1-112
+.gitattributes
+  s_dc170cbb8930c6::t_78defb594152d8 1-13
+.gitignore
+  s_dc170cbb8930c6::t_5885a7ee5d6e02 1-50
+.specify/.gitignore
+  s_dc170cbb8930c6::t_28a65cc7d0fb2c 1-3
+.specify/init-options.json
+  s_dc170cbb8930c6::t_2ccb6a766e7ecd 1-9
+.specify/integration.json
+  s_dc170cbb8930c6::t_c887a2308ead1a 1-15
+.specify/integrations/claude.manifest.json
+  s_dc170cbb8930c6::t_b94ad34a06deb6 1-17
+.specify/integrations/speckit.manifest.json
+  s_dc170cbb8930c6::t_51680c90043101 1-17
+.specify/memory/.constitution-template.json
+  s_dc170cbb8930c6::t_6bedbd0d008b24 1-4
+.specify/memory/constitution.md
+  s_dc170cbb8930c6::t_315c1436cea612 1-110
+.specify/scripts/README.md
+  s_dc170cbb8930c6::t_66d91cbbba9662 1-19
+.specify/scripts/bash/check-prerequisites.sh
+  s_dc170cbb8930c6::t_5a30263d6867c9 1-195
+.specify/scripts/bash/common.sh
+  s_dc170cbb8930c6::t_4478edf0e6285a 1-704
+.specify/scripts/bash/create-new-feature.sh
+  s_dc170cbb8930c6::t_4f38564048ad26 1-392
+.specify/scripts/bash/setup-plan.sh
+  s_dc170cbb8930c6::t_1d2daf7c8dc4b3 1-83
+.specify/scripts/bash/setup-tasks.sh
+  s_dc170cbb8930c6::t_7cbcfcb0c070c9 1-91
+.specify/scripts/python/check_prerequisites.py
+  s_dc170cbb8930c6::t_3bf14072b701cb 1-300
+.specify/scripts/python/common.py
+  s_dc170cbb8930c6::t_3b6a3ed48396ed 1-721
+.specify/scripts/python/create_new_feature.py
+  s_dc170cbb8930c6::t_b2db9765c1ef65 1-466
+.specify/scripts/python/resolve_template.py
+  s_dc170cbb8930c6::t_20c221aa4e2d88 1-64
+.specify/scripts/python/setup_plan.py
+  s_dc170cbb8930c6::t_4735e27212d3dc 1-117
+.specify/scripts/python/setup_tasks.py
+  s_dc170cbb8930c6::t_84b47c1ca57329 1-176
+.specify/templates/checklist-template.md
+  s_dc170cbb8930c6::t_57d41849f175a6 1-40
+.specify/templates/constitution-template.md
+  s_dc170cbb8930c6::t_63bc028daaec6b 1-50
+.specify/templates/plan-template.md
+  s_dc170cbb8930c6::t_fff5697026cbbc 1-113
+.specify/templates/spec-template.md
+  s_dc170cbb8930c6::t_a9c4d109d03504 1-131
+.specify/templates/tasks-template.md
+  s_dc170cbb8930c6::t_880a3e7c3ecdb3 1-252
+.specify/workflows/speckit/workflow.yml
+  s_dc170cbb8930c6::t_4cd8b92e32e6e5 1-78
+.specify/workflows/workflow-registry.json
+  s_dc170cbb8930c6::t_21a0a27116258e 1-13
+README.md
+  s_dc170cbb8930c6::t_760d88f7ca43da 1-197
+build.gradle
+  s_dc170cbb8930c6::t_1eb63d753fe7cb 1-142
+docs/可行性.md
+  s_dc170cbb8930c6::t_53feb5dc6f4a37 1-55
+gradle.properties
+  s_dc170cbb8930c6::t_dbcaaf97e08dd5 1-39
+gradle/wrapper/gradle-wrapper.properties
+  s_dc170cbb8930c6::t_b3e5bdeb88ff26 1-7
+gradlew
+  s_dc170cbb8930c6::t_9a639ef64ba88e 1-251
+gradlew.bat
+  s_dc170cbb8930c6::t_7269a927ed0ab2 1-94
+settings.gradle
+  s_dc170cbb8930c6::t_64c663cde1365a 1-13
+specs/001-message-events-mvp/checklists/requirements.md
+  s_dc170cbb8930c6::t_bdc271b8da17c8 1-38
+specs/001-message-events-mvp/contracts/kubejs-message-events.md
+  s_dc170cbb8930c6::t_20d53b854f7eb6 1-72
+specs/001-message-events-mvp/contracts/neoforge-events.md
+  s_dc170cbb8930c6::t_649d0196b8ed70 1-57
+specs/001-message-events-mvp/data-model.md
+  s_dc170cbb8930c6::t_08d3f21b9c201e 1-105
+specs/001-message-events-mvp/plan.md
+  s_dc170cbb8930c6::t_58929765f36768 1-126
+specs/001-message-events-mvp/quickstart.md
+  s_dc170cbb8930c6::t_ac09df7905a135 1-89
+specs/001-message-events-mvp/research.md
+  s_dc170cbb8930c6::t_c1bef59a6172ec 1-138
+specs/001-message-events-mvp/spec.md
+  s_dc170cbb8930c6::t_1674a677ce6d95 1-172
+specs/001-message-events-mvp/tasks.md
+  s_dc170cbb8930c6::t_592bee64f85759 1-173
+src/main/java/pnnh/mcmessageevents/MCMessageEvents.java
+  s_dc170cbb8930c6::t_0d60692919209c 1-37
+src/main/java/pnnh/mcmessageevents/capture/ClientChatCapture.java
+  s_dc170cbb8930c6::t_1a047c748a58a5 1-68
+src/main/java/pnnh/mcmessageevents/capture/ServerChatCapture.java
+  s_dc170cbb8930c6::t_5f562b9f52ec22 1-38
+src/main/java/pnnh/mcmessageevents/config/CommonConfig.java
+  s_dc170cbb8930c6::t_4cc5b8f44334ab 1-46
+src/main/java/pnnh/mcmessageevents/kubejs/ChatMessageKubeEvent.java
+  s_dc170cbb8930c6::t_67a9f6390610d7 1-47
+src/main/java/pnnh/mcmessageevents/kubejs/LogMessageKubeEvent.java
+  s_dc170cbb8930c6::t_27d8b3bc0a5948 1-36
+src/main/java/pnnh/mcmessageevents/kubejs/MessageEventsGroup.java
+  s_dc170cbb8930c6::t_6841b110b35128 1-15
+src/main/java/pnnh/mcmessageevents/kubejs/MessageEventsKubeJSPlugin.java
+  s_dc170cbb8930c6::t_96b73ecd5703e7 1-50
+src/main/java/pnnh/mcmessageevents/log/LogBridge.java
+  s_dc170cbb8930c6::t_b5063677b1e0be 1-99
+src/main/java/pnnh/mcmessageevents/log/LogLevels.java
+  s_dc170cbb8930c6::t_ece5af84054ba8 1-49
+src/main/java/pnnh/mcmessageevents/log/MessageLogAppender.java
+  s_dc170cbb8930c6::t_8d2d62bead9e30 1-72
+src/main/java/pnnh/mcmessageevents/mixin/PlayerListSystemMessageMixin.java
+  s_dc170cbb8930c6::t_8159e37797b5b1 1-53
+src/main/java/pnnh/mcmessageevents/observe/ChatObservation.java
+  s_dc170cbb8930c6::t_86b2203092f2b4 1-19
+src/main/java/pnnh/mcmessageevents/observe/ChatObservedEvent.java
+  s_dc170cbb8930c6::t_67fabda87ef762 1-18
+src/main/java/pnnh/mcmessageevents/observe/LogObservation.java
+  s_dc170cbb8930c6::t_421e7fb880153a 1-13
+src/main/java/pnnh/mcmessageevents/observe/LogObservedEvent.java
+  s_dc170cbb8930c6::t_e67bf72bc37850 1-18
+src/main/java/pnnh/mcmessageevents/observe/LogSeverity.java
+  s_dc170cbb8930c6::t_ab2fe24c70d9db 1-24
+src/main/java/pnnh/mcmessageevents/observe/MessagePhase.java
+  s_dc170cbb8930c6::t_34460e5f41e347 1-11
+src/main/java/pnnh/mcmessageevents/observe/ObservationDispatcher.java
+  s_dc170cbb8930c6::t_5f2fca3bb5661b 1-31
+src/main/java/pnnh/mcmessageevents/observe/ObservationSide.java
+  s_dc170cbb8930c6::t_de4a414b9062eb 1-9
+src/main/resources/kubejs.plugins.txt
+  s_dc170cbb8930c6::t_23ea318c7f8cc7 1
+src/main/resources/mcmessageevents.mixins.json
+  s_dc170cbb8930c6::t_480bb70304f153 1-13
+src/main/templates/META-INF/neoforge.mods.toml
+  s_dc170cbb8930c6::t_f7291c1996ef00 1-39
+src/test/java/pnnh/mcmessageevents/observe/ChatObservationTest.java
+  s_dc170cbb8930c6::t_c6d0e78e6515b9 1-55
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "33ee0b0b83bebbebe560c0dffa570eaf9d32b9ed",
+  "prompts": {},
+  "sessions": {
+    "s_dc170cbb8930c6": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "6e8ab031-cf6d-48ed-9fb1-1078c4138f3d",
+        "model": "unknown"
+      },
+      "human_author": "pnnh <linyangz@outlook.com>"
+    }
+  }
+}
