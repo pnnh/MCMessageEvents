@@ -1,0 +1,13 @@
+pluginManagement {
+    repositories {
+        // Local mirror of ModDevGradle marker + jar for SSL-broken hosts.
+        maven { url = uri("${rootDir}/.gradle-local-plugins") }
+        mavenLocal()
+        gradlePluginPortal()
+    }
+}
+
+// Foojay toolchain resolver omitted: host already has JDK 21; avoids plugin-portal
+// fetches when SSL interception breaks certificate validation.
+
+rootProject.name = 'mcmessageevents'

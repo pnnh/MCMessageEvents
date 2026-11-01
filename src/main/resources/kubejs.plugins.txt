@@ -1,0 +1,1 @@
+pnnh.mcmessageevents.kubejs.MessageEventsKubeJSPlugin
